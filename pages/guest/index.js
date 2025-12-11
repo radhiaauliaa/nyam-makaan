@@ -1,6 +1,6 @@
 // pages/guest/index.js
 import { useState, useEffect } from 'react';
-import LayoutGuest from '../../components/Layout/LayoutGuest';
+import Layout from '../../components/Layout/Layout';
 import { collection, getDocs, limit, orderBy, query, where } from 'firebase/firestore';
 import { db } from '../../lib/firebase';
 import { useRouter } from 'next/router';
