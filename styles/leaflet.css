@@ -1,0 +1,14 @@
+/* Leaflet CSS */
+@import 'leaflet/dist/leaflet.css';
+
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
+
+/* Custom marker styles */
+.leaflet-marker-icon {
+  border: none !important;
+  background: transparent !important;
+}

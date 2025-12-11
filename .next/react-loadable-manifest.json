@@ -1,0 +1,12 @@
+{
+  "..\\contexts\\AuthContext.js -> ../lib/firestore": {
+    "id": "..\\contexts\\AuthContext.js -> ../lib/firestore",
+    "files": [
+      "static/chunks/lib_firestore_js.js"
+    ]
+  },
+  "..\\contexts\\AuthContext.js -> firebase/auth": {
+    "id": "..\\contexts\\AuthContext.js -> firebase/auth",
+    "files": []
+  }
+}
